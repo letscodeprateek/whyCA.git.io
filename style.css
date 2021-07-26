@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+.prateek{
+    align-items: center;
+    text-align: center;
+    margin-bottom: 15px;
+    color: black;
+}
+
+.mona{
+    text-align: center;
+    color: crimson;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+
+}
+.mona li{
+    margin-bottom: 6px;
+}
